@@ -22,6 +22,3 @@ class Luhn:
         else:
             return False
     
-n = Luhn("055 444 285")
-print(n.valid())
-print(n.valid())
